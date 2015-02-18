@@ -393,6 +393,7 @@
 				8A6CDD321A93E7BF0077EF53 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8A6CDD331A93E7BF0077EF53 /* Build configuration list for PBXNativeTarget "Xdebug Quick SwitchTests" */ = {
 			isa = XCConfigurationList;
@@ -401,6 +402,7 @@
 				8A6CDD351A93E7BF0077EF53 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
